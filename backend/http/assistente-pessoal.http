@@ -1,0 +1,7 @@
+POST https://portigfolio.app.n8n.cloud/webhook/assistente-pessoal
+Content-Type: application/json
+
+{
+  "chatId": "sd5f4s5df4sd5fsd",
+  "mensagem": "você gosta de estudar tecnologia?"
+}
